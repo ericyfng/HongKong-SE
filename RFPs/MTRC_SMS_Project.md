@@ -31,3 +31,6 @@ Please refer to [SMS network design docs](https://drive.google.com/file/d/1-Xo_M
 Please go to this folder for downloading screenshots for demo results:
 [Demo Results](https://drive.google.com/drive/folders/18qgLmjReHmbQAU3Xk4KZev7WWB6Ju7AL?usp=sharing)
 
+### POC configurations (QFX spine and leaf)
+[Configs](MTRC/cfg)
+
