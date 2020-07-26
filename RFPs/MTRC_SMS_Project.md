@@ -22,7 +22,7 @@ The SMS Data Network shall be a new IP-based Software Defined Network (SDN) with
 
 ### High Level Network Design
 Please refer to [SMS network design docs](https://drive.google.com/file/d/1-Xo_MtMiolrIc3IL9ikH9wu78AOpsGef/view?usp=sharing) for details
-![](MTRC/MTR_ProposedDesign.png)
+![](MTRC/MTRC_ProposedDesign.png)
 
 ### Proof of Concept and Demos
 [MTRC SMS Project Demos powerpoint deck](https://drive.google.com/file/d/1SRnzvpT99Jzv3uAMacHFW0hJzgih7Qsx/view?usp=sharing)
