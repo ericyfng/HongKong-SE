@@ -25,7 +25,7 @@ Please refer to [SMS network design docs](https://drive.google.com/file/d/1-Xo_M
 ![](MTRC/MTRC_ProposedDesign.png)
 
 ### Proof of Concept and Demos
-[MTRC SMS Project Demos powerpoint deck](https://drive.google.com/file/d/1SRnzvpT99Jzv3uAMacHFW0hJzgih7Qsx/view?usp=sharing)
+This is the powerpoint deck for demos: [MTRC SMS Project Demos powerpoint deck](https://drive.google.com/file/d/1SRnzvpT99Jzv3uAMacHFW0hJzgih7Qsx/view?usp=sharing)
 
 ### POC results
 Please go to this folder for downloading screenshots for demo results:
