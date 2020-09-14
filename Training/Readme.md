@@ -1,4 +1,4 @@
-### Documents submission for:
+### Training archieves for Hong Kong SE Team:
 
 - SE/SSE Training contents.
 - Education Courses.
