@@ -5,4 +5,4 @@
 - SE Day Presentations.
 - Webinar Presentations.
 
-  * [Hospital Authority] (./Hospital_Authority.md)
+  * [Hospital Authority](./Hospital_Authority.md)
