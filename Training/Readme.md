@@ -2,4 +2,5 @@
 
 - SE/SSE Training contents.
 - Education Courses.
-  * [ADCX](./ADCX.md)
+
+  * [Data Center Fabric with EVPN VXLAN - ADCX Rev 18A](./ADCX.md)
