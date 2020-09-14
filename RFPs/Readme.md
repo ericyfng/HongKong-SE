@@ -7,5 +7,6 @@
 - POC material.
 - Configs.
 
-The projects here are:
+## The projects here are:
+
 1. [MTRC SMS Project](./MTRC_SMS_Project.md)
