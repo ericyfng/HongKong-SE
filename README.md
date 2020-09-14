@@ -5,6 +5,7 @@ Repository for documents submission and notes
 * [RFPs](./RFPs/Readme.md)
 * [Training](./Training/Readme.md)
 
+
 Please note that the actual files are to be stored on G-Suite.  Please check that you have a G-Suite account [here](https://gdrive.juniper.net) - you should see your business Google Drive.
 
 
