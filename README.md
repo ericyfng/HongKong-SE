@@ -1,7 +1,7 @@
 # HongKong-SE
 Repository for documents submission and notes
 
-* [Presentations](./Presentations.md)
+* [Presentations](./Presentations/Presentations.md)
 * [RFPs](./RFPs.md)
 * [Training](./Training.md)
 
