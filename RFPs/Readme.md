@@ -7,6 +7,6 @@
 - POC material.
 - Configs.
 
-## The projects here are:
+## RFPs from Hong Kong SE team:
 
 1. [MTRC SMS Project](./MTRC_SMS_Project.md)
